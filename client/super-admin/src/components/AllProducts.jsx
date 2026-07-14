@@ -1,6 +1,6 @@
 import ReactQuill from "react-quill-new";
 import { Link } from "react-router-dom";
-import { formats, modules } from "../helper/helper";
+import { formats, modules } from "../helper/Helper";
 import Paginate from "../helper/Paginate";
 
 const AllProducts = () => {
