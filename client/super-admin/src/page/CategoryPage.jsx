@@ -1,5 +1,5 @@
 import MasterLayout from "../layout/Masterlayout"
-import Preloader from "../helper/Preloader";
+import Preloader from "../helper/preloader";
 import Category from "../components/Category"
 
 const CategoryPage = () => {
