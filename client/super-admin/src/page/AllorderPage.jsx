@@ -1,5 +1,5 @@
 import MasterLayout from "../layout/Masterlayout"
-import Preloader from "../helper/Preloader";
+import Preloader from "../helper/preloader";
 import AllOrders from "../components/AllOrders"
 
 const AllOrdersPage = () => {
@@ -14,4 +14,4 @@ const AllOrdersPage = () => {
   );
 };
 
-export default AllOrdersPage;
+export default AllOrdersPage; 
