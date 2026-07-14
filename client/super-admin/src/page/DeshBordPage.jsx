@@ -1,5 +1,5 @@
 import DashboardInner from "../components/DeshBoardIneer"
-import Preloader from "../helper/Preloader";
+import Preloader from "../helper/preloader";
 import MasterLayout from "../layout/Masterlayout"
 
 const DashboardPage = () => {
